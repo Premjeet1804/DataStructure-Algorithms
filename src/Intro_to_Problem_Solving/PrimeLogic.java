@@ -1,7 +1,8 @@
 package Intro_to_Problem_Solving;
 
-public class IntroductionToProblemSolving {
+public class PrimeLogic {
     public static void main(String[] args) {
+
         System.out.println(IsPrime(5));
     }
 
